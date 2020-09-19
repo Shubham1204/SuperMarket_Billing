@@ -1,0 +1,8 @@
+Apple,50,kg,Produce,Fruits,bogo,3,1
+Orange,80,kg,Produce,Fruits,percentage_off,20,
+Potato,30,kg,Produce,Veg,bogo,5,2
+Tomato,70,kg,Produce,Veg,percentage_off,10,
+Cow Milk,50,lt,Dairy,Milk,bogo,3,1
+Soy Milk,40,lt,Dairy,Milk,percentage_off,10,
+Cheddar,50,kg,Dairy,Cheese,bogo,2,1
+Gouda,80,kg,Dairy,Cheese,percentage_off,10,
