@@ -1,1 +1,1 @@
-This is a supermarket billing system
+This is a supermarket billing system.
